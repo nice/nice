@@ -6,6 +6,4 @@ Hi 👋, I'm Jayaram
 
 📫 Email: **jayaram@gmx.com**
 
-🐘 Mastodon: [https://emacs.ch/@jay](https://emacs.ch/@jay)
-
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2102830)
