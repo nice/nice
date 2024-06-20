@@ -2,7 +2,7 @@ Hi 👋, I'm Jayaram
 
 📝 Blog: [https://medium.com/@jrmjrm](https://medium.com/@jrmjrm)
 
-▶️ Telegram: [https://t.me/jrmsan](https://t.me/hellojrm10)
+▶️ Telegram: [https://t.me/hellojrm10](https://t.me/hellojrm10)
 
 📫 Email: **hellojrm10@gmail.com**
 
