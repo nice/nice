@@ -4,6 +4,6 @@ Hi 👋, I'm Jayaram
 
 ▶️ Telegram: [https://t.me/hellojrm10](https://t.me/hellojrm10)
 
-📫 Email: **hellojrm10@gmail.com**
+📫 Email: **jayaram@gmx.com**
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2102830)
